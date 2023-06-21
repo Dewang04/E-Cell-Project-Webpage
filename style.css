@@ -1,0 +1,40 @@
+
+.first{
+    
+    background: #e2c0c0;
+    border: 5px solid rgb(255, 240, 230);
+   background-image: url(Screenshot\ 2023-04-14\ 185211.png);
+    padding: 100px;
+    background-size: 230px;
+    background-repeat: no-repeat;
+    font-family: 'Anton', sans-serif;
+    text-align: right;
+    color: antiquewhite;
+    font-size: 34px;
+    padding: 100px;
+    margin: 90px;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.second{
+    border: 5px solid rgb(255, 240, 230);
+    background: #d2a2a2;
+    padding: 100px;
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    margin: 90px;
+    font-size: 34px;
+}
+.headr{
+    background-color: rgb(33, 29, 29);
+    height:50px;
+    border: 4px solid rgb(23, 83, 45)
+}
+
+.headr ul li{
+    display: inline-block;
+    margin: 16px 182px;
+
+}

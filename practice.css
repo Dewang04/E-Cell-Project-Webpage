@@ -1,0 +1,181 @@
+
+    
+*{
+    margin: 0;
+    padding: 0;
+     
+}
+.okayis{
+    background-image: url("360_F_349121251_TImrjDhI9ax4A91eidjqGwuw8xabcRiw.jpg");
+    color: rgb(247, 233, 215);
+    display: inline-block;
+    width: 100%;
+    background-size: cover;
+    height: 866px;
+    
+    width: 100%;   
+} 
+.nav-elements{
+    display: inline;
+}
+
+
+.nott{
+   
+    
+    padding-left: 1005px;
+    position: relative;
+    padding-top: -11px;
+    margin-top: -168px;
+    border-top: -19px;
+    top: -324px;
+ left: -13px;
+    }
+    
+    .nottt{
+       
+        display: inline-block; 
+        padding-left: 600px;
+        padding-top: -11px;
+        margin-top: -168px;
+        position: relative;
+        left: 26px;
+        top: -82px;
+        }
+        .notttt{
+       
+       display: inline-block;
+       padding-left: 600px;
+       padding-top: -11px;
+       margin-top: -168px;
+       position: relative;
+       border-top: -19px;
+       top: -81px;
+ right: -392px;
+       }
+       
+       .notttttt{
+       
+       display: inline-block;
+       padding-left: 600px;
+       padding-top: -11px;
+       margin-top: -168px;
+       position: relative;
+       border-top: -19px;
+       top: -382px;
+ right: -190px;
+       }
+       .nottttttt{
+       
+       display: inline-block;
+       padding-left: 600px;
+       padding-top: -11px;
+       margin-top: -168px;
+       position: relative;
+       border-top: -19px;
+       right: -392px;
+       top: -257px;
+       }
+
+
+
+.navebar ul li{
+    
+    color: rgb(247, 233, 215);
+    display: inline-block;
+position: relative;
+margin: 33px;
+  margin-top: 33px;
+font-size: 20px;
+padding-top: 0px;
+margin-top: -35px;
+padding: 7px;
+}
+.navebar ul li a{
+    color: rgb(247, 233, 215);
+    text-decoration: none;
+}
+.okayis ul li::after{
+    content: "";
+    position: absolute;
+    background-color:  rgb(247, 233, 215);
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+
+}
+.okayis ul li:hover:after{
+    width: 100%;
+}
+
+.imgg{
+    padding-top: 19px;
+display: inline-block;
+padding-left: 1121px;
+padding-right: 187px;
+position: relative;
+}
+.nice{
+    display: inline-block;
+    position: relative;
+}
+#firsts{
+    background-image: url(background-white-paper-texture_87555-23022.avif height="90px") ;
+    display: inline-block;
+    position: relative;
+}
+.soul p{
+  
+    padding-left: 35px;
+padding-top: 51px;
+position: relative;
+font-size: 43px;
+
+line-height: 60px;
+font-family: 'Merriweather', serif;
+}
+
+.soull p{
+   
+    font-size: 25px;
+width: 691px;
+position: relative;
+padding-left: 36px;
+padding-top: 25px;
+
+display: inline-block;
+font-family: 'Merriweather', serif;
+font-family: 'Space Grotesk', sans-serif;
+}
+.new{
+    border: 2px saddlebrown;
+   ;
+    height: 1000px;
+    background-color: antiquewhite;
+    position: relative;
+    top: -191px;
+    height: 100vh;
+}
+.child{
+
+}
+.footer{
+    height: 50px;
+    background-color: coral;
+}
+.imggg{
+    position: relative;
+    top: 232px;
+   
+}
+
+
+
+@media (max-width: 952px){
+ .nav-elements{
+    display: flex;
+    flex-flow: column wrap;
+}
+}
